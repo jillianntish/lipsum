@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+  text-align: center;
+  margin: 40px auto;
+  max-width: 800px;
+  padding: 0 40px;
+  font: 16px 'Open Sans', sans-serif;
+  color: cadetblue;
+}
