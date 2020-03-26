@@ -1,9 +1,17 @@
 body {
-  background-color: white;
+  background-image: url("Secretary_hand.jpg");
   text-align: center;
   margin: 40px auto;
   max-width: 800px;
+  background-size:100%; 
   padding: 0 40px;
   font: 16px 'Open Sans', sans-serif;
   color: cadetblue;
+}
+
+.generated-text{
+  margin: 10px;
+  background-color: #ffffff;
+  opacity: 0.9;
+  border-radius: 5px;
 }
