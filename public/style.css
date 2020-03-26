@@ -6,12 +6,13 @@ body {
   background-size:100%; 
   padding: 0 40px;
   font: 16px 'Open Sans', sans-serif;
-  color: cadetblue;
+  color: #625750;
 }
 
 .generated-text{
+  color: #625750;
   margin: 10px;
-  background-color: #ffffff;
+  background-color:oldlace;
   opacity: 0.9;
   border-radius: 5px;
 }
