@@ -1,19 +1,23 @@
 body {
-  background-image: url("Secretary_hand.jpg");
+  background-image: url("parchment.jpg");
   text-align: center;
   margin: 40px auto;
   max-width: 800px;
-  background-size:100%; 
+  background-size:100%;
   background-repeat: repeat;
   padding: 0 40px;
   font: 16px 'Open Sans', sans-serif;
   color: #625750;
 }
 
-.generated-text{
+.placeholder-div{
   color: #625750;
-  margin: 10px;
-  background-color:oldlace;
+
+  p {
+      margin: 10px;
+      background-color:oldlace;
+  }
+
   opacity: 0.9;
   border-radius: 5px;
 }
