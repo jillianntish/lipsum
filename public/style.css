@@ -1,23 +1,21 @@
 body {
   background-image: url("parchment.jpg");
   text-align: center;
+  color: black
+}
+
+.generated-text{
+/*  color: black;
+  margin: 10px;
+  opacity: 0.9;
+  border-radius: 5px;*/
+}
+
+/*
   margin: 40px auto;
   max-width: 800px;
   background-size:100%;
   background-repeat: repeat;
   padding: 0 40px;
   font: 16px 'Open Sans', sans-serif;
-  color: #625750;
-}
-
-.placeholder-div{
-  color: #625750;
-
-  p {
-      margin: 10px;
-      background-color:oldlace;
-  }
-
-  opacity: 0.9;
-  border-radius: 5px;
-}
+  color: black */
